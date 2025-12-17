@@ -1,5 +1,8 @@
 ---
-id: 65515961-b4e0-48b7-8569-9844989eaee8
+id: 62de6ec4-3a4e-4d70-833f-ae92d8e6bc91
+title: tryidstick
 ---
 
 ## IDSTICJK
+
+So good though. 
